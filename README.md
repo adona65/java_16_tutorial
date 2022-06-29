@@ -9,4 +9,6 @@ Contains tests and tutorials about java 16 new features.
 <br/>
 <br/>
 <u>Sources I used for java 16 training :</u>
-None (for the moment)
+- https://www.tutorialspoint.com
+- https://examples.javacodegeeks.com
+- https://www.baeldung.com/
