@@ -2,7 +2,7 @@ package tutorial_000.languageNewFeatures;
 
 public class _003_JvmChanges {
 	/*
-	 * Java 65 delivered various changes concerning JVM. Here are some.
+	 * Java 16 delivered various changes concerning JVM. Here are some.
 	 */
 	
 	/*
